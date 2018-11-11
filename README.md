@@ -1,2 +1,2 @@
 # cmd-hangman
-A command line hangman word game.
+A command-line hangman word game.
